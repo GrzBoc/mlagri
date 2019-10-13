@@ -1,2 +1,7 @@
 # mlagri
-homework 7
+
+Homework week 7
+
+NN built from scratch.
+
+NN trained on soyabeans dataset.
