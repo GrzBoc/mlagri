@@ -4,4 +4,4 @@ Homework week 7
 
 NN built from scratch.
 
-NN trained on soyabeans dataset.
+NN trained on soybeans dataset.
